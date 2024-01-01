@@ -1,6 +1,6 @@
 #include <stdio.h>
 //Declaration and Initialiazation of interger array
-int main() {:
+int main() {
 	int myArray[5];
 	myArray[0]=10;
 	myArray[1]=25;
@@ -9,5 +9,5 @@ int main() {:
 	myArray[4]=50;
 //Accessing the elements in the arrays
 printf("The element at position 1 is:  %d \n",myArray[1]);
-return 0
+return 0;
 }
